@@ -1,0 +1,7 @@
+DirectoryBook{name='Tien', phoneNumber=913970994, group='CodeGym', isMale=true, address='HaiPhong', email='tiennv@gmail.com'
+}DirectoryBook{name='Hung', phoneNumber=913970995, group='FTU', isMale=true, address='HaNam', email='hungnd@gmail.com'
+}DirectoryBook{name='Son', phoneNumber=913970996, group='FPT', isMale=true, address='NamDinh', email='codegym@gmail.com'
+}DirectoryBook{name='Truong', phoneNumber=913970997, group='TMA', isMale=true, address='Can Tho', email='cantho@gmail.com'
+}DirectoryBook{name='hieu', phoneNumber=353150504, group='codegym', isMale=true, address='phudien', email='hieunguyen@codegym.com'
+}DirectoryBook{name='hao', phoneNumber=985701478, group='banbe', isMale=false, address='lienmac', email='hao@gmail.com'
+}
